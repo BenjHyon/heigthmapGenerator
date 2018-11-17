@@ -1,4 +1,5 @@
-import random, time
+import random
+import time
 from PIL import Image, ImageFilter
 import math
 
